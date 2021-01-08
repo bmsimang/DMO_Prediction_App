@@ -7,7 +7,7 @@ A prediction web application for finding the probability of zipcodes being eithe
 
 ## Installation
 
-Use the following cli command to install [streamlit](https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html) on the host machine.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [streamlit](https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html) on the host machine.
 
 ```bash
 pip install streamlit
