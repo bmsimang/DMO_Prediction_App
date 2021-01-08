@@ -2,7 +2,13 @@
 
 # Zipcode Prediction Engine
 
-A prediction web application for finding the probability of zipcodes being either single play, double play or tripple plau
+We deployed our solution to a streamlit web application with a graphical user interface whereby the end user can input zip codes and get the likelyhood/probailility of it being either one of the three sale plays (single, double or tripple) using either one of our pretrained machine learning models, it also included a classification report for each individual model to illustrate how they performed.
+
+The application also included an in-depth explanotory data analysis performed on the given homelink data set together with insights that were onbtained from the analysis.
+
+However we stopped persuing the app implementation as we were advised that we would not be required handle the deployment phase of the project.
+
+For a walkthrough guide on the installation of the streamlit application please use the following github readme.md file. 
 
 
 ## Installation
