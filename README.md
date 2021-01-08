@@ -22,7 +22,7 @@ pip install streamlit
 After installation cd into the project and run the following execution command:
 
 ```bash
-cd DMO_Predictio_App
+cd DMO_Prediction_App
 ```
 Then..
 
